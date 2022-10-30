@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViktorTap
-- 👀 I’m interested in fullstack and cybersec
+- 👀 I’m interested in fullstack web-development
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on some practice in simple web dev
 - 📫 How to reach me - you can contact me here
